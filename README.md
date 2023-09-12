@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SAAS Product architecture & Car Leasing app**
 
-- 🌱 I’m currently learning **VR with godot & unity, Blockchain**
+- 🌱 I’m currently learning **VR with godot & unity, Blockchain and Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Open source project**
 
